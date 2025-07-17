@@ -31,8 +31,8 @@ $$
 solving for $\omega$ and $R$ we get,
 
 $$
-    \omega = (v_r - v_l)/b \\[1em]
-    R = {b \over 2}{(v_r + v_l) \over {v_r  v_l}} \\[1em]
+    \omega = (v_r - v_l)/b \\\\
+    R = {b \over 2}{(v_r + v_l) \over {v_r  v_l}} \\\\
 $$
 
 Instantaneous velocity, 

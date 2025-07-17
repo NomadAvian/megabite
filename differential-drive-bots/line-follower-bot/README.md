@@ -23,7 +23,7 @@ $$
 |---|---|---|---|---|
 |KP|decrease|increase|small change|decrease|
 |KI|decrease|increase|increase|eliminate|
-|KP|small change|decrease|decrease|no change|
+|KD|small change|decrease|decrease|no change|
 
 ### Error Calculations
 
@@ -34,8 +34,8 @@ $$
 $$
 
 where, 
-$r_i =$ reading of $i$th sensor
-$w_i =$ weight of $i$th sensor
+$r_i =$ reading of $ith$ sensor (from the left)
+$w_i =$ weight of $ith$ sensor
 $W = \sum w_i =$ total weight of all sensors 
 
 #### TO DO
